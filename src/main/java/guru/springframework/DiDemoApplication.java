@@ -1,10 +1,9 @@
 package guru.springframework;
 
+import guru.springframework.controllers.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-
-import guru.springframework.controllers.MyController;
 
 @SpringBootApplication
 public class DiDemoApplication {

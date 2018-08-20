@@ -9,5 +9,6 @@ public class MyController {
 		System.out.println("Hello there");
 		return "foo";
 	}
-
 }
+
+
